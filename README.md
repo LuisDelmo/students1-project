@@ -1,7 +1,3 @@
-Since you've put in the work to build the schema and the Bash automation script, here is a professional `README.md` that explains exactly how your project works.
-
----
-
 # Students Database Project
 
 This project automates the creation and population of a relational database for student enrollment. It uses a **Bash script** to parse CSV data and inject it into a **PostgreSQL** database, ensuring data integrity by managing relational IDs for majors and courses.
