@@ -13,6 +13,12 @@ The database consists of four tables designed with normalized relationships:
 
 ---
 
+## 📊 Entity Relationship Diagram
+
+![ERD](drd.png)
+
+---
+
 ## 🚀 How to Use
 
 ### 1. Setup the Database
