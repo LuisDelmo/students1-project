@@ -1,6 +1,6 @@
 # Students Database Project
 
-This project automates the creation and population of a relational database for student enrollment. It uses a **Bash script** to parse CSV data and inject it into a **PostgreSQL** database, ensuring data integrity by managing relational IDs for majors and courses.
+This project automates the creation and population of a relational database for student enrollment. It uses a **Bash script** to parse CSV data and inject it into a **PostgreSQL** database, ensuring data integrity by managing relational IDs for majors and courses, did this with Freecodecamp as a Course project.
 
 ## 🗄️ Database Schema
 
